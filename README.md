@@ -1,6 +1,8 @@
 # 1-rescato-de-datos-cirticos
 🧠 Reto de Algoritmos: Rescate de Datos Críticos en una Infraestructura Comprometida
 
+https://github.com/boscorollan/1-rescato-de-datos-cirticos.git
+
 Presentación:
 
 Bienvenidos, estimados alumnos. Este ejercicio simula una situación de emergencia tecnológica en la que deberán aplicar sus habilidades analíticas para diseñar una solución eficiente, lógica y bien comunicada.
